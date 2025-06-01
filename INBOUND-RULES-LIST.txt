@@ -1,0 +1,298 @@
+Name	Group	Profile	Enabled	Action	Override	Program	Local Address	Remote Address	Protocol	Local Port	Remote Port	Authorized Users	Authorized Computers	Authorized Local Principals	Local User Owner	PolicyAppId	Application Package	
+HNS Container Networking - DNS (UDP-In) - 06F7B1F4-D42F-45A9-B78F-322D674DEC61 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - 0F1431F4-1FDA-4A06-A872-1DD1895F7DE0 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - 28E09191-824B-4985-8CB9-E0BA4FB7F06C - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - 31D51C38-862B-4F82-A692-A61743587BCC - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - 3A98ADE6-EF9A-49AA-AA04-4A3E7905AB07 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - 3D6CFF76-B7DE-4550-BA45-0CCCC4BF4CB9 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - 42CC7F0E-200C-4C8D-979D-1A830EAB398B - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - 4DEC809E-334F-47A4-BBC5-137761797FB7 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - 51E77C56-7DA3-4724-BEFD-59E50CE50097 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - 6B4836B4-8DE8-4C56-B3C4-828C3077CDF8 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - 704143F0-B5B4-430C-929F-2891494E75E4 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - 78E36C72-45D1-4C54-B0D3-35D0CF2771F8 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - B2BE7870-C0AF-44EB-A0DE-0D4DD0D0566F - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - C1E922BC-A055-4112-AF21-F85A22E48D23 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - D192AE39-1DCB-421A-ADDB-C246D0D4D574 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - D5B04343-3AEA-408C-8238-570A600090A2 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - DBEE0680-D57E-4A22-A5F6-16FB5C9CC6B4 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - DDD0D331-BB45-4853-BC99-0033372C55A0 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - EB0223A5-7C4C-44A8-B736-CD45824A2E7E - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - DNS (UDP-In) - ED9EDCEE-5C65-47D4-A2C3-C2CAE712FFB4 - 0		All	Yes	Allow	No	Any	Any	Any	UDP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - 06F7B1F4-D42F-45A9-B78F-322D674DEC61 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - 0F1431F4-1FDA-4A06-A872-1DD1895F7DE0 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - 28E09191-824B-4985-8CB9-E0BA4FB7F06C - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - 31D51C38-862B-4F82-A692-A61743587BCC - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - 3A98ADE6-EF9A-49AA-AA04-4A3E7905AB07 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - 3D6CFF76-B7DE-4550-BA45-0CCCC4BF4CB9 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - 42CC7F0E-200C-4C8D-979D-1A830EAB398B - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - 4DEC809E-334F-47A4-BBC5-137761797FB7 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - 51E77C56-7DA3-4724-BEFD-59E50CE50097 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - 6B4836B4-8DE8-4C56-B3C4-828C3077CDF8 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - 704143F0-B5B4-430C-929F-2891494E75E4 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - 78E36C72-45D1-4C54-B0D3-35D0CF2771F8 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - B2BE7870-C0AF-44EB-A0DE-0D4DD0D0566F - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - C1E922BC-A055-4112-AF21-F85A22E48D23 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - D192AE39-1DCB-421A-ADDB-C246D0D4D574 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - D5B04343-3AEA-408C-8238-570A600090A2 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - DBEE0680-D57E-4A22-A5F6-16FB5C9CC6B4 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - DDD0D331-BB45-4853-BC99-0033372C55A0 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - EB0223A5-7C4C-44A8-B736-CD45824A2E7E - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+HNS Container Networking - ICS DNS (TCP-In) - ED9EDCEE-5C65-47D4-A2C3-C2CAE712FFB4 - 0		All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	53	Any	Any	Any	Any	Any	None	Any	
+Riot Client		Private, Public	Yes	Allow	No	G:\valorant\riot games\riot client\riotclientelectron\riot client.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Riot Client		Private, Public	Yes	Allow	No	G:\valorant\riot games\riot client\riotclientelectron\riot client.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+@FirewallAPI.dll,-80201	@FirewallAPI.dll,-80200	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	554, 8554-8558	Any	Any	Any	Any	Any	None	Any	
+@FirewallAPI.dll,-80206	@FirewallAPI.dll,-80200	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	5000-5020	Any	Any	Any	Any	Any	None	Any	
+AllJoyn Router (TCP-In)	AllJoyn Router	Domain, Private	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	9955	Any	Any	Any	Any	Any	None	Any	
+AllJoyn Router (UDP-In)	AllJoyn Router	Domain, Private	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+App Installer	App Installer	Domain, Private	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	microsoft.desktopappinstaller_8wekyb3d8bbwe	
+BranchCache Content Retrieval (HTTP-In)	BranchCache - Content Retrieval (Uses HTTP)	All	No	Allow	No	SYSTEM	Any	Any	TCP	80	Any	Any	Any	Any	Any	None	Any	
+BranchCache Hosted Cache Server (HTTP-In)	BranchCache - Hosted Cache Server (Uses HTTPS)	All	No	Allow	No	SYSTEM	Any	Any	TCP	80, 443	Any	Any	Any	Any	Any	None	Any	
+BranchCache Peer Discovery (WSD-In)	BranchCache - Peer Discovery (Uses WSD)	All	No	Allow	No	%systemroot%\system32\svchost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	None	Any	
+Cast to Device functionality (qWave-TCP-In)	Cast to Device functionality	Private, Public	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	PlayTo Renderers	TCP	2177	Any	Any	Any	Any	Any	None	Any	
+Cast to Device functionality (qWave-UDP-In)	Cast to Device functionality	Private, Public	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	PlayTo Renderers	UDP	2177	Any	Any	Any	Any	Any	None	Any	
+Cast to Device SSDP Discovery (UDP-In)	Cast to Device functionality	Public	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	PlayTo Discovery	Any	Any	Any	Any	Any	None	Any	
+Cast to Device streaming server (HTTP-Streaming-In)	Cast to Device functionality	Domain	Yes	Allow	No	System	Any	Any	TCP	10246	Any	Any	Any	Any	Any	None	Any	
+Cast to Device streaming server (HTTP-Streaming-In)	Cast to Device functionality	Public	Yes	Allow	No	System	Any	PlayTo Renderers	TCP	10246	Any	Any	Any	Any	Any	None	Any	
+Cast to Device streaming server (HTTP-Streaming-In)	Cast to Device functionality	Private	Yes	Allow	No	System	Any	Local subnet	TCP	10246	Any	Any	Any	Any	Any	None	Any	
+Cast to Device streaming server (RTCP-Streaming-In)	Cast to Device functionality	Domain	Yes	Allow	No	%SystemRoot%\system32\mdeserver.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+Cast to Device streaming server (RTCP-Streaming-In)	Cast to Device functionality	Private	Yes	Allow	No	%SystemRoot%\system32\mdeserver.exe	Any	Local subnet	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+Cast to Device streaming server (RTCP-Streaming-In)	Cast to Device functionality	Public	Yes	Allow	No	%SystemRoot%\system32\mdeserver.exe	Any	PlayTo Renderers	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+Cast to Device streaming server (RTSP-Streaming-In)	Cast to Device functionality	Public	Yes	Allow	No	%SystemRoot%\system32\mdeserver.exe	Any	PlayTo Renderers	TCP	23554, 23555, 23556	Any	Any	Any	Any	Any	None	Any	
+Cast to Device streaming server (RTSP-Streaming-In)	Cast to Device functionality	Private	Yes	Allow	No	%SystemRoot%\system32\mdeserver.exe	Any	Local subnet	TCP	23554, 23555, 23556	Any	Any	Any	Any	Any	None	Any	
+Cast to Device streaming server (RTSP-Streaming-In)	Cast to Device functionality	Domain	Yes	Allow	No	%SystemRoot%\system32\mdeserver.exe	Any	Any	TCP	23554, 23555, 23556	Any	Any	Any	Any	Any	None	Any	
+Cast to Device UPnP Events (TCP-In)	Cast to Device functionality	Public	Yes	Allow	No	System	Any	PlayTo Renderers	TCP	2869	Any	Any	Any	Any	Any	None	Any	
+Connected Devices Platform - Wi-Fi Direct Transport (TCP-In)	Connected Devices Platform	Public	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Connected Devices Platform (TCP-In)	Connected Devices Platform	Domain, Private	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Connected Devices Platform (UDP-In)	Connected Devices Platform	Domain, Private	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Destination Unreachable (ICMPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Destination Unreachable Fragmentation Needed (ICMPv4-In)	Core Networking	All	Yes	Allow	No	System	Any	Any	ICMPv4	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Dynamic Host Configuration Protocol (DHCP-In)	Core Networking	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	68	67	Any	Any	Any	Any	None	Any	
+Core Networking - Dynamic Host Configuration Protocol for IPv6(DHCPV6-In)	Core Networking	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	546	547	Any	Any	Any	Any	None	Any	
+Core Networking - Internet Group Management Protocol (IGMP-In)	Core Networking	All	Yes	Allow	No	System	Any	Any	IGMP	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - IPHTTPS (TCP-In)	Core Networking	All	Yes	Allow	No	System	Any	Any	TCP	IPHTTPS	Any	Any	Any	Any	Any	None	Any	
+Core Networking - IPv6 (IPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	Any	IPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Multicast Listener Done (ICMPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	Local subnet	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Multicast Listener Query (ICMPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	Local subnet	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Multicast Listener Report (ICMPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	Local subnet	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Multicast Listener Report v2 (ICMPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	Local subnet	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Neighbor Discovery Advertisement (ICMPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Neighbor Discovery Solicitation (ICMPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Packet Too Big (ICMPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Parameter Problem (ICMPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Router Advertisement (ICMPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	fe80::/64	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Router Solicitation (ICMPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Teredo (UDP-In)	Core Networking	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	Edge Traversal	Any	Any	Any	Any	Any	None	Any	
+Core Networking - Time Exceeded (ICMPv6-In)	Core Networking	All	Yes	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking Diagnostics - ICMP Echo Request (ICMPv4-In)	Core Networking Diagnostics	Domain	No	Allow	No	System	Any	Any	ICMPv4	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking Diagnostics - ICMP Echo Request (ICMPv4-In)	Core Networking Diagnostics	Private, Public	No	Allow	No	System	Any	Local subnet	ICMPv4	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking Diagnostics - ICMP Echo Request (ICMPv6-In)	Core Networking Diagnostics	Domain	No	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Core Networking Diagnostics - ICMP Echo Request (ICMPv6-In)	Core Networking Diagnostics	Private, Public	No	Allow	No	System	Any	Local subnet	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Cortana	Cortana	All	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	microsoft.549981c3f5f10_8wekyb3d8bbwe	
+Delivery Optimization (TCP-In)	Delivery Optimization	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	7680	Any	Any	Any	Any	Any	None	Any	
+Delivery Optimization (UDP-In)	Delivery Optimization	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	7680	Any	Any	Any	Any	Any	None	Any	
+Desktop App Web Viewer	Desktop App Web Viewer	All	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	Microsoft.Win32WebViewHost_cw5n1h2txyewy	
+DIAL protocol server (HTTP-In)	DIAL protocol server	Domain	Yes	Allow	No	System	Any	Any	TCP	10247	Any	Any	Any	Any	Any	None	Any	
+DIAL protocol server (HTTP-In)	DIAL protocol server	Private	Yes	Allow	No	System	Any	Local subnet	TCP	10247	Any	Any	Any	Any	Any	None	Any	
+Distributed Transaction Coordinator (RPC)	Distributed Transaction Coordinator	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Distributed Transaction Coordinator (RPC)	Distributed Transaction Coordinator	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Distributed Transaction Coordinator (RPC-EPMAP)	Distributed Transaction Coordinator	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Distributed Transaction Coordinator (RPC-EPMAP)	Distributed Transaction Coordinator	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Distributed Transaction Coordinator (TCP-In)	Distributed Transaction Coordinator	Domain	No	Allow	No	%SystemRoot%\system32\msdtc.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Distributed Transaction Coordinator (TCP-In)	Distributed Transaction Coordinator	Private, Public	No	Allow	No	%SystemRoot%\system32\msdtc.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (Echo Request - ICMPv4-In)	File and Printer Sharing	Domain	No	Allow	No	System	Any	Any	ICMPv4	Any	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (Echo Request - ICMPv4-In)	File and Printer Sharing	Private, Public	No	Allow	No	System	Any	Local subnet	ICMPv4	Any	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (Echo Request - ICMPv6-In)	File and Printer Sharing	Private, Public	No	Allow	No	System	Any	Local subnet	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (Echo Request - ICMPv6-In)	File and Printer Sharing	Domain	No	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (LLMNR-UDP-In)	File and Printer Sharing	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	5355	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (NB-Datagram-In)	File and Printer Sharing	Domain	No	Allow	No	System	Any	Any	UDP	138	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (NB-Datagram-In)	File and Printer Sharing	Private, Public	No	Allow	No	System	Any	Local subnet	UDP	138	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (NB-Name-In)	File and Printer Sharing	Private, Public	No	Allow	No	System	Any	Local subnet	UDP	137	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (NB-Name-In)	File and Printer Sharing	Domain	No	Allow	No	System	Any	Any	UDP	137	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (NB-Session-In)	File and Printer Sharing	Private, Public	No	Allow	No	System	Any	Local subnet	TCP	139	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (NB-Session-In)	File and Printer Sharing	Domain	No	Allow	No	System	Any	Any	TCP	139	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (SMB-In)	File and Printer Sharing	Private, Public	No	Allow	No	System	Any	Local subnet	TCP	445	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (SMB-In)	File and Printer Sharing	Domain	No	Allow	No	System	Any	Any	TCP	445	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (Spooler Service - RPC)	File and Printer Sharing	Domain	No	Allow	No	%SystemRoot%\system32\spoolsv.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (Spooler Service - RPC)	File and Printer Sharing	Private, Public	No	Allow	No	%SystemRoot%\system32\spoolsv.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (Spooler Service - RPC-EPMAP)	File and Printer Sharing	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing (Spooler Service - RPC-EPMAP)	File and Printer Sharing	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+File and Printer Sharing over SMBDirect (iWARP-In)	File and Printer Sharing over SMBDirect	All	No	Allow	No	System	Any	Any	TCP	5445	Any	Any	Any	Any	Any	None	Any	
+Game Bar	Game Bar	All	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	Microsoft.XboxGamingOverlay_8wekyb3d8bbwe	
+Groove Music	Groove Music	Domain, Private	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	microsoft.zunemusic_8wekyb3d8bbwe	
+HomeGroup In	HomeGroup	Private	No	Allow	No	%systemroot%\system32\svchost.exe	Any	Local subnet	TCP	3587	Any	Any	Any	Any	Any	None	Any	
+HomeGroup In (PNRP)	HomeGroup	Private	No	Allow	No	%systemroot%\system32\svchost.exe	Any	Local subnet	UDP	3540	Any	Any	Any	Any	Any	None	Any	
+Hyper-V - WMI (Async-In)	Hyper-V	All	Yes	Allow	No	%systemroot%\system32\wbem\unsecapp.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Hyper-V - WMI (DCOM-In)	Hyper-V	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	135	Any	Any	Any	Any	Any	None	Any	
+Hyper-V - WMI (TCP-In)	Hyper-V	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Hyper-V (MIG-TCP-In)	Hyper-V	All	Yes	Allow	No	%systemroot%\system32\vmms.exe	Any	Any	TCP	6600	Any	Any	Any	Any	Any	None	Any	
+Hyper-V (REMOTE_DESKTOP_TCP_IN)	Hyper-V	All	Yes	Allow	No	%systemroot%\system32\vmms.exe	Any	Any	TCP	2179	Any	Any	Any	Any	Any	None	Any	
+Hyper-V (RPC)	Hyper-V	All	Yes	Allow	No	System	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Hyper-V (RPC-EPMAP)	Hyper-V	All	Yes	Allow	No	System	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Hyper-V Management Clients - WMI (Async-In)	Hyper-V Management Clients	All	Yes	Allow	No	%SystemRoot%\system32\wbem\unsecapp.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Hyper-V Management Clients - WMI (DCOM-In)	Hyper-V Management Clients	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	135	Any	Any	Any	Any	Any	None	Any	
+Hyper-V Management Clients - WMI (TCP-In)	Hyper-V Management Clients	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Hyper-V Replica HTTP Listener (TCP-In)	Hyper-V Replica HTTP	All	No	Allow	No	System	Any	Any	TCP	80	Any	Any	Any	Any	Any	None	Any	
+Hyper-V Replica HTTPS Listener (TCP-In)	Hyper-V Replica HTTPS	All	No	Allow	No	System	Any	Any	TCP	443	Any	Any	Any	Any	Any	None	Any	
+iSCSI Service (TCP-In)	iSCSI Service	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+iSCSI Service (TCP-In)	iSCSI Service	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Key Management Service (TCP-In)	Key Management Service	Domain	No	Allow	No	%SystemRoot%\system32\sppextcomobj.exe	Any	Any	TCP	1688	Any	Any	Any	Any	Any	None	Any	
+Key Management Service (TCP-In)	Key Management Service	Private, Public	No	Allow	No	%SystemRoot%\system32\sppextcomobj.exe	Any	Local subnet	TCP	1688	Any	Any	Any	Any	Any	None	Any	
+Mail and Calendar	Mail and Calendar	All	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	microsoft.windowscommunicationsapps_8wekyb3d8bbwe	
+mDNS (UDP-In)	mDNS	Public	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	5353	Any	Any	Any	Any	Any	None	Any	
+mDNS (UDP-In)	mDNS	Domain	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	5353	Any	Any	Any	Any	Any	None	Any	
+mDNS (UDP-In)	mDNS	Private	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	5353	Any	Any	Any	Any	Any	None	Any	
+Media Center Extenders - HTTP Streaming (TCP-In)	Media Center Extenders	All	No	Allow	No	System	Any	Local subnet	TCP	10244	Any	Any	Any	Any	Any	None	Any	
+Media Center Extenders - Media Streaming (TCP-In)	Media Center Extenders	All	No	Allow	No	System	Any	Local subnet	TCP	2869	Any	Any	Any	Any	Any	None	Any	
+Media Center Extenders - qWave (TCP-In)	Media Center Extenders	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	2177	Any	Any	Any	Any	Any	None	Any	
+Media Center Extenders - qWave (UDP-In)	Media Center Extenders	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	2177	Any	Any	Any	Any	Any	None	Any	
+Media Center Extenders - RTSP (TCP-In)	Media Center Extenders	All	No	Allow	No	%SystemRoot%\ehome\ehshell.exe	Any	Local subnet	TCP	554, 8554, 8555, 8556, 8557, 8558	Any	Any	Any	Any	Any	None	Any	
+Media Center Extenders - SSDP (UDP-In)	Media Center Extenders	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	None	Any	
+Media Center Extenders - WMDRM-ND/RTP/RTCP (UDP-In)	Media Center Extenders	All	No	Allow	No	%SystemRoot%\ehome\ehshell.exe	Any	Local subnet	UDP	7777, 7778, 7779, 7780, 7781, 5004, 5005, 50004, 50005, 50006, 50007, 50008, 50009, 50010, 50011, 50012, 50013	Any	Any	Any	Any	Any	None	Any	
+Media Center Extenders - XSP (TCP-In)	Media Center Extenders	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	3390	Any	Any	Any	Any	Any	None	Any	
+Microsoft Edge (mDNS-In)	Microsoft Edge	All	Yes	Allow	No	C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe	Any	Any	UDP	5353	Any	Any	Any	Any	Any	None	Any	
+Microsoft Edge (mDNS-In)	Microsoft Edge WebView2 Runtime	All	Yes	Allow	No	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\136.0.3240.92\msedgewebview2.exe	Any	Any	UDP	5353	Any	Any	Any	Any	Any	None	Any	
+Microsoft Store	Microsoft Store	All	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	Microsoft.WindowsStore_8wekyb3d8bbwe	
+Movies & TV	Movies & TV	Domain, Private	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	microsoft.zunevideo_8wekyb3d8bbwe	
+Netlogon Service (NP-In)	Netlogon Service	All	No	Allow	No	System	Any	Any	TCP	445	Any	Any	Any	Any	Any	None	Any	
+Netlogon Service Authz (RPC)	Netlogon Service	All	No	Allow	No	%SystemRoot%\System32\lsass.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (LLMNR-UDP-In)	Network Discovery	Private	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	5355	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (LLMNR-UDP-In)	Network Discovery	Domain, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	5355	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (NB-Datagram-In)	Network Discovery	Domain	No	Allow	No	System	Any	Any	UDP	138	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (NB-Datagram-In)	Network Discovery	Private	Yes	Allow	No	System	Any	Local subnet	UDP	138	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (NB-Datagram-In)	Network Discovery	Public	No	Allow	No	System	Any	Local subnet	UDP	138	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (NB-Name-In)	Network Discovery	Private	Yes	Allow	No	System	Any	Local subnet	UDP	137	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (NB-Name-In)	Network Discovery	Domain	No	Allow	No	System	Any	Any	UDP	137	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (NB-Name-In)	Network Discovery	Public	No	Allow	No	System	Any	Local subnet	UDP	137	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (Pub-WSD-In)	Network Discovery	Domain, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (Pub-WSD-In)	Network Discovery	Private	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (SSDP-In)	Network Discovery	Domain, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (SSDP-In)	Network Discovery	Private	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (UPnP-In)	Network Discovery	Domain	No	Allow	No	System	Any	Any	TCP	2869	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (UPnP-In)	Network Discovery	Public	No	Allow	No	System	Any	Local subnet	TCP	2869	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (UPnP-In)	Network Discovery	Private	Yes	Allow	No	System	Any	Local subnet	TCP	2869	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (WSD Events-In)	Network Discovery	Private	Yes	Allow	No	System	Any	Local subnet	TCP	5357	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (WSD Events-In)	Network Discovery	Domain	No	Allow	No	System	Any	Any	TCP	5357	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (WSD Events-In)	Network Discovery	Public	No	Allow	No	System	Any	Local subnet	TCP	5357	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (WSD EventsSecure-In)	Network Discovery	Public	No	Allow	No	System	Any	Local subnet	TCP	5358	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (WSD EventsSecure-In)	Network Discovery	Domain	No	Allow	No	System	Any	Any	TCP	5358	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (WSD EventsSecure-In)	Network Discovery	Private	Yes	Allow	No	System	Any	Local subnet	TCP	5358	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (WSD-In)	Network Discovery	Private	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (WSD-In)	Network Discovery	Domain, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (WSD-In)	Network Discovery	Domain, Public	No	Allow	No	%SystemRoot%\system32\dashost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	None	Any	
+Network Discovery (WSD-In)	Network Discovery	Private	Yes	Allow	No	%SystemRoot%\system32\dashost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	None	Any	
+Network Discovery for Teredo (SSDP-In)	Network Discovery	Public	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+Network Discovery for Teredo (UPnP-In)	Network Discovery	Public	Yes	Allow	No	System	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Performance Logs and Alerts (DCOM-In)	Performance Logs and Alerts	Private, Public	No	Allow	No	%systemroot%\system32\svchost.exe	Any	Local subnet	TCP	135	Any	Any	Any	Any	Any	None	Any	
+Performance Logs and Alerts (DCOM-In)	Performance Logs and Alerts	Domain	No	Allow	No	%systemroot%\system32\svchost.exe	Any	Any	TCP	135	Any	Any	Any	Any	Any	None	Any	
+Performance Logs and Alerts (TCP-In)	Performance Logs and Alerts	Domain	No	Allow	No	%systemroot%\system32\plasrv.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Performance Logs and Alerts (TCP-In)	Performance Logs and Alerts	Private, Public	No	Allow	No	%systemroot%\system32\plasrv.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Proximity sharing over TCP (TCP sharing-In)	Proximity Sharing	All	Yes	Allow	No	%SystemRoot%\system32\proximityuxhost.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Remote Assistance (DCOM-In)	Remote Assistance	Domain	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	135	Any	Any	Any	Any	Any	None	Any	
+Remote Assistance (PNRP-In)	Remote Assistance	Domain, Private	Yes	Allow	No	%systemroot%\system32\svchost.exe	Any	Any	UDP	3540	Any	Any	Any	Any	Any	None	Any	
+Remote Assistance (PNRP-In)	Remote Assistance	Public	No	Allow	No	%systemroot%\system32\svchost.exe	Any	Any	UDP	3540	Any	Any	Any	Any	Any	None	Any	
+Remote Assistance (RA Server TCP-In)	Remote Assistance	Domain	Yes	Allow	No	%SystemRoot%\system32\raserver.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Remote Assistance (SSDP TCP-In)	Remote Assistance	Domain, Private	Yes	Allow	No	System	Any	Local subnet	TCP	2869	Any	Any	Any	Any	Any	None	Any	
+Remote Assistance (SSDP UDP-In)	Remote Assistance	Domain, Private	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	None	Any	
+Remote Assistance (TCP-In)	Remote Assistance	Domain, Private	Yes	Allow	No	%SystemRoot%\system32\msra.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Remote Assistance (TCP-In)	Remote Assistance	Public	No	Allow	No	%SystemRoot%\system32\msra.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Remote Desktop - Shadow (TCP-In)	Remote Desktop	All	Yes	Allow	No	%SystemRoot%\system32\RdpSa.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Remote Desktop - User Mode (TCP-In)	Remote Desktop	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	3389	Any	Any	Any	Any	Any	None	Any	
+Remote Desktop - User Mode (UDP-In)	Remote Desktop	All	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	3389	Any	Any	Any	Any	Any	None	Any	
+Remote Desktop - (TCP-WS-In)	Remote Desktop (WebSocket)	All	No	Allow	No	System	Any	Any	TCP	3387	Any	Any	Any	Any	Any	None	Any	
+Remote Desktop - (TCP-WSS-In)	Remote Desktop (WebSocket)	All	No	Allow	No	System	Any	Any	TCP	3392	Any	Any	Any	Any	Any	None	Any	
+Remote Event Log Management (NP-In)	Remote Event Log Management	Private, Public	No	Allow	No	System	Any	Local subnet	TCP	445	Any	Any	Any	Any	Any	None	Any	
+Remote Event Log Management (NP-In)	Remote Event Log Management	Domain	No	Allow	No	System	Any	Any	TCP	445	Any	Any	Any	Any	Any	None	Any	
+Remote Event Log Management (RPC)	Remote Event Log Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Remote Event Log Management (RPC)	Remote Event Log Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Remote Event Log Management (RPC-EPMAP)	Remote Event Log Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Remote Event Log Management (RPC-EPMAP)	Remote Event Log Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Remote Event Monitor (RPC)	Remote Event Monitor	All	No	Allow	No	%SystemRoot%\system32\NetEvtFwdr.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Remote Event Monitor (RPC-EPMAP)	Remote Event Monitor	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Remote Scheduled Tasks Management (RPC)	Remote Scheduled Tasks Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Remote Scheduled Tasks Management (RPC)	Remote Scheduled Tasks Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Remote Scheduled Tasks Management (RPC-EPMAP)	Remote Scheduled Tasks Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Remote Scheduled Tasks Management (RPC-EPMAP)	Remote Scheduled Tasks Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Remote Service Management (NP-In)	Remote Service Management	Private, Public	No	Allow	No	System	Any	Local subnet	TCP	445	Any	Any	Any	Any	Any	None	Any	
+Remote Service Management (NP-In)	Remote Service Management	Domain	No	Allow	No	System	Any	Any	TCP	445	Any	Any	Any	Any	Any	None	Any	
+Remote Service Management (RPC)	Remote Service Management	Private, Public	No	Allow	No	%SystemRoot%\system32\services.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Remote Service Management (RPC)	Remote Service Management	Domain	No	Allow	No	%SystemRoot%\system32\services.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Remote Service Management (RPC-EPMAP)	Remote Service Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Remote Service Management (RPC-EPMAP)	Remote Service Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Inbound Rule for Remote Shutdown (RPC-EP-In)	Remote Shutdown	All	No	Allow	No	%systemroot%\system32\wininit.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Inbound Rule for Remote Shutdown (TCP-In)	Remote Shutdown	All	No	Allow	No	%systemroot%\system32\wininit.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Remote Volume Management - Virtual Disk Service (RPC)	Remote Volume Management	Private, Public	No	Allow	No	%SystemRoot%\system32\vds.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Remote Volume Management - Virtual Disk Service (RPC)	Remote Volume Management	Domain	No	Allow	No	%SystemRoot%\system32\vds.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Remote Volume Management - Virtual Disk Service Loader (RPC)	Remote Volume Management	Private, Public	No	Allow	No	%SystemRoot%\system32\vdsldr.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Remote Volume Management - Virtual Disk Service Loader (RPC)	Remote Volume Management	Domain	No	Allow	No	%SystemRoot%\system32\vdsldr.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Remote Volume Management (RPC-EPMAP)	Remote Volume Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Remote Volume Management (RPC-EPMAP)	Remote Volume Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Routing and Remote Access (GRE-In)	Routing and Remote Access	All	No	Allow	No	System	Any	Any	GRE	Any	Any	Any	Any	Any	Any	None	Any	
+Routing and Remote Access (L2TP-In)	Routing and Remote Access	All	No	Allow	No	System	Any	Any	UDP	1701	Any	Any	Any	Any	Any	None	Any	
+Routing and Remote Access (PPTP-In)	Routing and Remote Access	All	No	Allow	No	System	Any	Any	TCP	1723	Any	Any	Any	Any	Any	None	Any	
+Secure Socket Tunneling Protocol (SSTP-In)	Secure Socket Tunneling Protocol	All	No	Allow	No	System	Any	Any	TCP	443	Any	Any	Any	Any	Any	None	Any	
+SNMP Trap Service (UDP In)	SNMP Trap	Private, Public	No	Allow	No	%SystemRoot%\system32\snmptrap.exe	Any	Local subnet	UDP	162	Any	Any	Any	Any	Any	None	Any	
+SNMP Trap Service (UDP In)	SNMP Trap	Domain	No	Allow	No	%SystemRoot%\system32\snmptrap.exe	Any	Any	UDP	162	Any	Any	Any	Any	Any	None	Any	
+Start	Start	Domain, Private	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy	
+Store Experience Host	Store Experience Host	Domain, Private	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	Microsoft.StorePurchaseApp_8wekyb3d8bbwe	
+TPM Virtual Smart Card Management (DCOM-In)	TPM Virtual Smart Card Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	135	Any	Any	Any	Any	Any	None	Any	
+TPM Virtual Smart Card Management (DCOM-In)	TPM Virtual Smart Card Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	135	Any	Any	Any	Any	Any	None	Any	
+TPM Virtual Smart Card Management (TCP-In)	TPM Virtual Smart Card Management	Private, Public	No	Allow	No	%SystemRoot%\system32\RmtTpmVscMgrSvr.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+TPM Virtual Smart Card Management (TCP-In)	TPM Virtual Smart Card Management	Domain	No	Allow	No	%SystemRoot%\system32\RmtTpmVscMgrSvr.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Virtual Machine Monitoring (DCOM-In)	Virtual Machine Monitoring	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	135	Any	Any	Any	Any	Any	None	Any	
+Virtual Machine Monitoring (Echo Request - ICMPv4-In)	Virtual Machine Monitoring	All	No	Allow	No	System	Any	Any	ICMPv4	Any	Any	Any	Any	Any	Any	None	Any	
+Virtual Machine Monitoring (Echo Request - ICMPv6-In)	Virtual Machine Monitoring	All	No	Allow	No	System	Any	Any	ICMPv6	Any	Any	Any	Any	Any	Any	None	Any	
+Virtual Machine Monitoring (NB-Session-In)	Virtual Machine Monitoring	All	No	Allow	No	System	Any	Any	TCP	139	Any	Any	Any	Any	Any	None	Any	
+Virtual Machine Monitoring (RPC)	Virtual Machine Monitoring	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Wi-Fi Direct Network Discovery (In)	Wi-Fi Direct Network Discovery	Public	Yes	Allow	No	%SystemRoot%\system32\dashost.exe	Any	Any	Any	Any	Any	Any	Any	S-1-5-92-3339056971-1291069075-3798698925-2882100687-0	Any	None	Any	
+Wi-Fi Direct Scan Service Use (In)	Wi-Fi Direct Network Discovery	Public	Yes	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	None	Any	
+Wi-Fi Direct Spooler Use (In)	Wi-Fi Direct Network Discovery	Public	Yes	Allow	No	%SystemRoot%\system32\spoolsv.exe	Any	Any	Any	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Collaboration Computer Name Registration Service (PNRP-In)	Windows Collaboration Computer Name Registration Service	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	3540	Any	Any	Any	Any	Any	None	Any	
+Windows Collaboration Computer Name Registration Service (SSDP-In)	Windows Collaboration Computer Name Registration Service	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	None	Any	
+Windows Defender Firewall Remote Management (RPC)	Windows Defender Firewall Remote Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Windows Defender Firewall Remote Management (RPC)	Windows Defender Firewall Remote Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Dynamic Ports	Any	Any	Any	Any	Any	None	Any	
+Windows Defender Firewall Remote Management (RPC-EPMAP)	Windows Defender Firewall Remote Management	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Windows Defender Firewall Remote Management (RPC-EPMAP)	Windows Defender Firewall Remote Management	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	RPC Endpoint Mapper	Any	Any	Any	Any	Any	None	Any	
+Windows Feature Experience Pack	Windows Feature Experience Pack	Domain, Private	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	MicrosoftWindows.Client.CBS_cw5n1h2txyewy	
+Windows Management Instrumentation (ASync-In)	Windows Management Instrumentation (WMI)	Domain	No	Allow	No	%systemroot%\system32\wbem\unsecapp.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Management Instrumentation (ASync-In)	Windows Management Instrumentation (WMI)	Private, Public	No	Allow	No	%systemroot%\system32\wbem\unsecapp.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Management Instrumentation (DCOM-In)	Windows Management Instrumentation (WMI)	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	135	Any	Any	Any	Any	Any	None	Any	
+Windows Management Instrumentation (DCOM-In)	Windows Management Instrumentation (WMI)	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	135	Any	Any	Any	Any	Any	None	Any	
+Windows Management Instrumentation (WMI-In)	Windows Management Instrumentation (WMI)	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Management Instrumentation (WMI-In)	Windows Management Instrumentation (WMI)	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player (UDP-In)	Windows Media Player	All	No	Allow	No	%ProgramFiles%\Windows Media Player\wmplayer.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player x86 (UDP-In)	Windows Media Player	All	No	Allow	No	%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (HTTP-Streaming-In)	Windows Media Player Network Sharing Service	Domain	No	Allow	No	System	Any	Any	TCP	10243	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (HTTP-Streaming-In)	Windows Media Player Network Sharing Service	Private, Public	No	Allow	No	System	Any	Local subnet	TCP	10243	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (qWave-TCP-In)	Windows Media Player Network Sharing Service	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	TCP	2177	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (qWave-TCP-In)	Windows Media Player Network Sharing Service	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	TCP	2177	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (qWave-UDP-In)	Windows Media Player Network Sharing Service	Private, Public	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	2177	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (qWave-UDP-In)	Windows Media Player Network Sharing Service	Domain	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	2177	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (SSDP-In)	Windows Media Player Network Sharing Service	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (Streaming-UDP-In)	Windows Media Player Network Sharing Service	Private, Public	No	Allow	No	%PROGRAMFILES%\Windows Media Player\wmplayer.exe	Any	Local subnet	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (Streaming-UDP-In)	Windows Media Player Network Sharing Service	Domain	No	Allow	No	%PROGRAMFILES%\Windows Media Player\wmplayer.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (TCP-In)	Windows Media Player Network Sharing Service	Private, Public	No	Allow	No	%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe	Any	Local subnet	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (TCP-In)	Windows Media Player Network Sharing Service	Domain	No	Allow	No	%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (UDP-In)	Windows Media Player Network Sharing Service	Private, Public	No	Allow	No	%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe	Any	Local subnet	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (UDP-In)	Windows Media Player Network Sharing Service	Domain	No	Allow	No	%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe	Any	Any	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Media Player Network Sharing Service (UPnP-In)	Windows Media Player Network Sharing Service	All	No	Allow	No	System	Any	Local subnet	TCP	2869	Any	Any	Any	Any	Any	None	Any	
+Windows Peer to Peer Collaboration Foundation (PNRP-In)	Windows Peer to Peer Collaboration Foundation	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Any	UDP	3540	Any	Any	Any	Any	Any	None	Any	
+Windows Peer to Peer Collaboration Foundation (SSDP-In)	Windows Peer to Peer Collaboration Foundation	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	None	Any	
+Windows Peer to Peer Collaboration Foundation (TCP-In)	Windows Peer to Peer Collaboration Foundation	All	No	Allow	No	%SystemRoot%\system32\p2phost.exe	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+Windows Peer to Peer Collaboration Foundation (WSD-In)	Windows Peer to Peer Collaboration Foundation	All	No	Allow	No	%SystemRoot%\system32\p2phost.exe	Any	Local subnet	UDP	3702	Any	Any	Any	Any	Any	None	Any	
+Windows Remote Management (HTTP-In)	Windows Remote Management	Domain, Private	No	Allow	No	System	Any	Any	TCP	5985	Any	Any	Any	Any	Any	None	Any	
+Windows Remote Management (HTTP-In)	Windows Remote Management	Public	No	Allow	No	System	Any	Local subnet	TCP	5985	Any	Any	Any	Any	Any	None	Any	
+Windows Remote Management - Compatibility Mode (HTTP-In)	Windows Remote Management (Compatibility)	Private, Public	No	Allow	No	System	Any	Local subnet	TCP	80	Any	Any	Any	Any	Any	None	Any	
+Windows Remote Management - Compatibility Mode (HTTP-In)	Windows Remote Management (Compatibility)	Domain	No	Allow	No	System	Any	Any	TCP	80	Any	Any	Any	Any	Any	None	Any	
+Windows Search	Windows Search	Domain, Private	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	Microsoft.Windows.Search_cw5n1h2txyewy	
+Windows Security	Windows Security	Domain, Private	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	Microsoft.Windows.SecHealthUI_cw5n1h2txyewy	
+Wireless Display (TCP-In)	Wireless Display	All	Yes	Allow	No	%systemroot%\system32\WUDFHost.exe	Any	Any	TCP	Any	Any	Any	Any	NT AUTHORITY\USER MODE DRIVERS	Any	None	Any	
+Wireless Display Infrastructure Back Channel (TCP-In)	Wireless Display	All	Yes	Allow	No	%systemroot%\system32\CastSrv.exe	Any	Any	TCP	7250	Any	Any	Any	Any	Any	None	Any	
+Wireless Portable Devices (SSDP-In)	Wireless Portable Devices	All	No	Allow	No	%SystemRoot%\system32\svchost.exe	Any	Local subnet	UDP	1900	Any	Any	Any	Any	Any	None	Any	
+Wireless Portable Devices (UPnP-In)	Wireless Portable Devices	All	No	Allow	No	System	Any	Local subnet	TCP	2869	Any	Any	Any	Any	Any	None	Any	
+WFD ASP Coordination Protocol (UDP-In)	WLAN Service - WFD Application Services Platform Coordination Protocol (Uses UDP)	All	Yes	Allow	No	%systemroot%\system32\svchost.exe	Any	Local subnet	UDP	7235	7235	Any	Any	Any	Any	None	Any	
+WFD Driver-only (TCP-In)	WLAN Service - WFD Services Kernel Mode Driver Rules	All	Yes	Allow	No	System	Any	Any	TCP	Any	Any	Any	Any	Any	Any	None	Any	
+WFD Driver-only (UDP-In)	WLAN Service - WFD Services Kernel Mode Driver Rules	All	Yes	Allow	No	System	Any	Any	UDP	Any	Any	Any	Any	Any	Any	None	Any	
+Work or school account	Work or school account	Domain, Private	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy	
+Xbox	Xbox	All	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	microsoft.xboxapp_8wekyb3d8bbwe	
+Your account	Your account	Domain, Private	Yes	Allow	No	Any	Any	Any	Any	Any	Any	Any	Any	Any	DESKTOP-6L8D0VG\KUNAL	None	Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy	
