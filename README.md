@@ -239,12 +239,18 @@ Through this task, I learned:
 ## 📁 Project Structure
 
 ```text
-CYBERSECURITY-TASK-4/
+CCYBERSECURITY-TASK-4/
 │
 ├── README.md
 │
+├── Firewall-Rules/
+│   ├── Inbound-Rules.txt
+│   └── Outbound-Rules.txt
+│
 └── Screenshots/
-    ├── firewall-rules.png
+    ├── firewall-main.png
+    ├── inbound-rules.png
+    ├── outbound-rules.png
     ├── block-port-rule.png
     └── firewall-test.png
 ```
