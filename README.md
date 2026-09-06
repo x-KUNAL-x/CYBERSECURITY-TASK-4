@@ -249,10 +249,9 @@ CCYBERSECURITY-TASK-4/
 │
 └── Screenshots/
     ├── firewall-main.png
-    ├── inbound-rules.png
-    ├── outbound-rules.png
-    ├── block-port-rule.png
-    └── firewall-test.png
+    ├── firewall-rules.png
+    ├── telnet-port-23-test.png
+    └── cmd-verification.png
 ```
 
 ---
